@@ -8,4 +8,4 @@ This is a quiz app, which
  - shows results after finishing all the questions
  - can be restarted by clicking restart button
 
-Deployed: https://quiz-nine-hazel.vercel.app/
+Link: https://quiz-nine-hazel.vercel.app/
