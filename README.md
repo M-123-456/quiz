@@ -1,4 +1,4 @@
-## React Shopping Cart:
+## React Quiz App:
 
 #### 1. Install the project
     `npm install`
